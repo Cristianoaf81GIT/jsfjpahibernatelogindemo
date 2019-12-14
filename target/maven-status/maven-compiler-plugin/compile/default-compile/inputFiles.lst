@@ -1,0 +1,7 @@
+/home/cristianoaf81/NetBeansProjects/JPAJSFLoginDemo1/src/main/java/com/profcristianoaf81/jpajsflogindemo1/menagedbeans/LoginManagedBean.java
+/home/cristianoaf81/NetBeansProjects/JPAJSFLoginDemo1/src/main/java/com/profcristianoaf81/jpajsflogindemo1/dao/DaoFactory.java
+/home/cristianoaf81/NetBeansProjects/JPAJSFLoginDemo1/src/main/java/com/profcristianoaf81/jpajsflogindemo1/entities/Usuario.java
+/home/cristianoaf81/NetBeansProjects/JPAJSFLoginDemo1/src/main/java/com/profcristianoaf81/jpajsflogindemo1/webfilter/HibernateFilter.java
+/home/cristianoaf81/NetBeansProjects/JPAJSFLoginDemo1/src/main/java/com/profcristianoaf81/jpajsflogindemo1/webfilter/LoginFilter.java
+/home/cristianoaf81/NetBeansProjects/JPAJSFLoginDemo1/src/main/java/com/profcristianoaf81/jpajsflogindemo1/menagedbeans/LogOutManagedBean.java
+/home/cristianoaf81/NetBeansProjects/JPAJSFLoginDemo1/src/main/java/com/profcristianoaf81/jpajsflogindemo1/Util/HibernateUtil.java

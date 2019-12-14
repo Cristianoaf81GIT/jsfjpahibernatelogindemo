@@ -1,0 +1,7 @@
+com/profcristianoaf81/jpajsflogindemo1/webfilter/LoginFilter.class
+com/profcristianoaf81/jpajsflogindemo1/menagedbeans/LoginManagedBean.class
+com/profcristianoaf81/jpajsflogindemo1/webfilter/HibernateFilter.class
+com/profcristianoaf81/jpajsflogindemo1/entities/Usuario.class
+com/profcristianoaf81/jpajsflogindemo1/dao/DaoFactory.class
+com/profcristianoaf81/jpajsflogindemo1/menagedbeans/LogOutManagedBean.class
+com/profcristianoaf81/jpajsflogindemo1/Util/HibernateUtil.class
